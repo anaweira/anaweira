@@ -1,5 +1,3 @@
-# Ana Meira
-
 Engenheira de Produção com foco em **Análise de Dados** e **Business Intelligence**.  
 Experiência com automação de relatórios, criação de dashboards, padronização de fluxos e implantação de KPIs.  
 Atuação remota desde 2017, com domínio de ferramentas como Power BI, SQL, Excel Avançado, Python e CRM.
